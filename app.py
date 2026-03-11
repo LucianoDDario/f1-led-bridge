@@ -16,7 +16,7 @@ STATUS_MAP = {
     "1": "GREEN",       # Pista limpa
     "2": "YELLOW",      # Bandeira Amarela
     "4": "SAFETY_CAR",  # Safety Car Real
-    "5": "RED",         # Bandeira Vermelha (Paralisação)
+    "5": "RED",         # Bandeira Vermelha
     "6": "VSC",         # Virtual Safety Car
     "7": "VSC_ENDING"   # VSC terminando
 }
